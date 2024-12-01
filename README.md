@@ -10,6 +10,7 @@ Clone the repository and use the package manager `pip` to install requirements.
 
 ```bash
 git clone https://github.com/rickbaishuak/QuotesScraper.git
+cd QuotesScraper
 pip install -r requirements.txt
 ```
 
